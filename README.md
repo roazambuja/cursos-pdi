@@ -7,3 +7,6 @@ Repositório utilizado para os projetos desenvolvidos nos cursos da plataforma [
 - [alura-studies](react-typescript/alura-studies) - [React: escrevendo com Typescript](https://pm3.alura.com.br/course/react-modernizando-escrever-typescript)
 - [aluroni](react-typescript/aluroni) - [React: lidando com arquivos estáticos](https://pm3.alura.com.br/course/react-arquivos-estaticos)
 - [aluroni-router](react-typescript/aluroni-router) - [React: conhecendo a biblioteca React Router](https://pm3.alura.com.br/course/react-biblioteca-react-router)
+- [alfood](react-typescript/alfood) - [React: integrando seu projeto React com APIs](https://pm3.alura.com.br/course/react-integrando-projeto-react-apis)
+    - [Backend](react-typescript/alfood/restaurantes_api-master/)
+    - [Frontend](react-typescript/alfood/alfood-main/)
