@@ -10,3 +10,6 @@ Repositório utilizado para os projetos desenvolvidos nos cursos da plataforma [
 - [alfood](react-typescript/alfood) - [React: integrando seu projeto React com APIs](https://pm3.alura.com.br/course/react-integrando-projeto-react-apis)
     - [Backend](react-typescript/alfood/restaurantes_api-master/)
     - [Frontend](react-typescript/alfood/alfood-main/)
+- [alurabooks](react-typescript/alurabooks/) - [HTTP: entendendo a web por baixo dos panos](https://pm3.alura.com.br/course/http-entendendo-web-por-baixo-dos-panos)
+    - [Backend](react-typescript/alurabooks/api-alurabooks-main/)
+    - [Frontend](react-typescript/alurabooks/curso-react-alurabooks-main/)
