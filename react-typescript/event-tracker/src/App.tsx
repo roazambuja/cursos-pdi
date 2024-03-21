@@ -11,6 +11,8 @@ function App() {
 
   const [filtro, setFiltro] = useState<Date | null>()
 
+
+
   const adicionarEvento = (evento: IEvento) => {
     evento.id = Math.round((new Date()).getTime() / 1000)
     // eventos.push(evento)
@@ -33,18 +35,18 @@ function App() {
     setFiltro(data)
   }
 
-  const filtrados = !filtro
-    // ? eventos
-    // : eventos.filter((evento) =>
-    //   filtro!.toISOString().slice(0, 10) === evento.inicio.toISOString().slice(0, 10)
-    // );
+  // const filtrados = !filtro
+  //   ? eventos
+  //   : eventos.filter((evento) =>
+  //     filtro!.toISOString().slice(0, 10) === evento.inicio.toISOString().slice(0, 10)
+  //   );
 
   return (
     <RecoilRoot>
     <div className={style.App}>
       <div className={style.Coluna}>
         <Card>
-          <Formulario aoSalvar={adicionarEvento} />
+          <Formulario />
         </Card>
         <hr />
         <Card>
