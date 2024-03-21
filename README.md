@@ -13,3 +13,4 @@ Repositório utilizado para os projetos desenvolvidos nos cursos da plataforma [
 - [alurabooks](react-typescript/alurabooks/) - [HTTP: entendendo a web por baixo dos panos](https://pm3.alura.com.br/course/http-entendendo-web-por-baixo-dos-panos)
     - [Backend](react-typescript/alurabooks/api-alurabooks-main/)
     - [Frontend](react-typescript/alurabooks/curso-react-alurabooks-main/)
+- [event-tracker](react-typescript/event-tracker/) - [React: gerenciando estado com Recoil](https://pm3.alura.com.br/course/react-gerenciando-estado-recoil)
