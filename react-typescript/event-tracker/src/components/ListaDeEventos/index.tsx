@@ -13,7 +13,6 @@ const ListaDeEventos: React.FC = () => {
     <div className={style.Scroll}>
       {eventos.map(evento => (
           <>
-          {console.log(evento)}
           <Evento evento={evento} key={evento.id} />
           </>
 
