@@ -23,6 +23,7 @@ const Calendario: React.FC = () => {
   const eventosKalend = new Map<string, IKalendEvento[]>();
   const eventos = useListaDeEventos();
 
+
   eventos.forEach(evento => {
     const chave = evento.inicio.toISOString().slice(0, 10)
     if (!eventosKalend.has(chave)) {
