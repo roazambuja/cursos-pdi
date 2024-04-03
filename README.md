@@ -15,3 +15,4 @@ Repositório utilizado para os projetos desenvolvidos nos cursos da plataforma [
     - [Frontend](react-typescript/alurabooks/curso-react-alurabooks-main/)
 - [event-tracker](react-typescript/event-tracker/) - [React: gerenciando estado com Recoil](https://pm3.alura.com.br/course/react-gerenciando-estado-recoil)
 - [sorteador-de-amigo-secreto](react-typescript/sorteador-de-amigo-secreto/) - [React: testando os seus componentes](https://pm3.alura.com.br/course/react-testando-componentes)
+- [aluroni-performance](react-typescript/aluroni-performance/) - [React: otimizando a performance](https://pm3.alura.com.br/course/react-otimizando-performance)
