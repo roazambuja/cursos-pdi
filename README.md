@@ -21,3 +21,4 @@ Repositório utilizado para os projetos desenvolvidos nos cursos da plataforma [
 ## Formação React: desenvolva aplicações web usando JSX e Hooks
 
 - [html-css](react/html-css/) - [HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags](https://pm3.alura.com.br/course/html-css-ambiente-arquivos-tags) e [HTML e CSS: Classes, posicionamento e Flexbox](https://pm3.alura.com.br/course/html-css-classes-posicionamento-flexbox)
+- [aluramidi](react/aluramidi/) - [JavaScript para Web: Crie páginas dinâmicas](https://pm3.alura.com.br/course/javascript-web-paginas-dinamicas)
