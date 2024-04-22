@@ -23,3 +23,4 @@ Repositório utilizado para os projetos desenvolvidos nos cursos da plataforma [
 - [aluramidi](react/aluramidi/) - [JavaScript para Web: Crie páginas dinâmicas](https://pm3.alura.com.br/course/javascript-web-paginas-dinamicas)
 - [fokus](react/fokus/) - [JavaScript: manipulando elementos no DOM](https://pm3.alura.com.br/course/javascript-manipulando-elementos-dom)
 - [react-components](react/react-components/) - [React: construíndo componentes com JSX](https://pm3.alura.com.br/course/react-construindo-componentes-jsx)
+- [vidflow](react/vidflow/) - [Node.js e terminal: dominando o ambiente de desenvolvimento front-end](https://pm3.alura.com.br/course/node-js-terminal-ambiente-desenvolvimento-front-end)
