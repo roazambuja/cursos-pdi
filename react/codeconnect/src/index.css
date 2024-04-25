@@ -10,8 +10,6 @@
   --branco: #ffffff;
 }
 
-/* código omitido */
-
 * {
   margin: 0;
   padding: 0;
@@ -21,4 +19,11 @@
 body {
   background-color: var(--grafite);
   font-family: var(--fonte);
+}
+
+.lista-cards {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-auto-rows: 1fr;
+  gap: 24px;
 }
