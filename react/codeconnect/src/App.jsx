@@ -4,6 +4,7 @@ import Card from "./components/Card";
 import Filter from "./components/Filter";
 import SearchBar from "./components/SearchBar";
 import Sidebar from "./components/Sidebar";
+import Ordination from "./components/Ordination";
 
 function App() {
   const [dados, setDados] = useState([]);
@@ -22,6 +23,7 @@ function App() {
       <div>
         <SearchBar />
         <Filter />
+        <Ordination />
         <ul className="lista-cards">
           {dados
             ? dados.map((item, index) => (
