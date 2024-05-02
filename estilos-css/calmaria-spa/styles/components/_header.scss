@@ -32,6 +32,10 @@ header {
           variaveis.$cor-primaria
         );
         font-weight: 500;
+
+        &:hover {
+          font-weight: 700;
+        }
       }
     }
   }
