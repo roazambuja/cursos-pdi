@@ -31,3 +31,4 @@ Repositório utilizado para os projetos desenvolvidos nos cursos da plataforma [
 - [aluraplay](estilos-css/aluraplay-projeto-base/) - [CSS: Flexbox e layouts responsivos](https://pm3.alura.com.br/course/css-flexbox-layouts-responsivos)
 - [wavecast](estilos-css/wavecast/) - [CSS: construindo layouts com Grid](hhttps://pm3.alura.com.br/course/css-construindo-layouts-com-grid)
 - [calmaria-spa](estilos-css/calmaria-spa/) - [SASS e CSS: estilizando um site](https://pm3.alura.com.br/course/sass-css-estilizando-site)
+- [aluranewsletter](estilos-css/aluranewsletter/) - [Tailwind CSS: estilizando a sua página com classes utilitárias](https://pm3.alura.com.br/course/tailwind-css-estilizando-pagina-classes-utilitarias)
