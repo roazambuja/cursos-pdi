@@ -1,5 +1,5 @@
 .banner {
-  display: grip;
+  display: grid;
   gap: 1rem;
 }
 
