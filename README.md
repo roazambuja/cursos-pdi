@@ -33,3 +33,7 @@ Repositório utilizado para os projetos desenvolvidos nos cursos da plataforma [
 - [calmaria-spa](estilos-css/calmaria-spa/) - [SASS e CSS: estilizando um site](https://pm3.alura.com.br/course/sass-css-estilizando-site)
 - [aluranewsletter](estilos-css/aluranewsletter/) - [Tailwind CSS: estilizando a sua página com classes utilitárias](https://pm3.alura.com.br/course/tailwind-css-estilizando-pagina-classes-utilitarias)
 - [culturama](estilos-css/culturama/) - [Praticando CSS: Grid e Flexbox](https://pm3.alura.com.br/course/praticando-css-grid-flexbox)
+
+## Formação Melhore sua aplicação React com testes automatizados
+
+- [bytebank](tests/bytebank/) - [React JS: crie testes com Jest e Testing Library e garanta o funcionamento do Front-end](https://cursos.alura.com.br/course/react-js-testes-automatizados-front-end)
