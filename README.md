@@ -38,3 +38,4 @@ Repositório utilizado para os projetos desenvolvidos nos cursos da plataforma [
 
 - [bytebank](tests/bytebank/) - [React JS: crie testes com Jest e Testing Library e garanta o funcionamento do Front-end](https://cursos.alura.com.br/course/react-js-testes-automatizados-front-end)
 - [bytebank-v2](tests/bytebank-v2/) - [React: testes de integração e mocks no Front-end](https://cursos.alura.com.br/course/react-testes-integracao-mocks-front-end)
+- [bytebank-cypress](tests/bytebank-cypress/) - [React: escreva testes end to end com Cypress](https://cursos.alura.com.br/course/react-escreva-testes-end-to-end-cypress)
