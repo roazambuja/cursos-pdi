@@ -39,3 +39,5 @@ Repositório utilizado para os projetos desenvolvidos nos cursos da plataforma [
 - [bytebank](tests/bytebank/) - [React JS: crie testes com Jest e Testing Library e garanta o funcionamento do Front-end](https://cursos.alura.com.br/course/react-js-testes-automatizados-front-end)
 - [bytebank-v2](tests/bytebank-v2/) - [React: testes de integração e mocks no Front-end](https://cursos.alura.com.br/course/react-testes-integracao-mocks-front-end)
 - [bytebank-cypress](tests/bytebank-cypress/) - [React: escreva testes end to end com Cypress](https://cursos.alura.com.br/course/react-escreva-testes-end-to-end-cypress)
+- [bytebank-cypress-v2](tests/bytebank-cypress-v2/) - [React: avançando em testes e2e com Cypress](https://cursos.alura.com.br/course/react-avancando-testes-e2e-cypress)
+- [to-do](tests/to-do/) - [Artigo: Como implementar cobertura de testes no Cypress](https://www.alura.com.br/artigos/como-implementar-cobertura-testes-cypress?_gl=1*1mxg1oe*_ga*MTQ5OTYyNzE1OS4xNzA0ODA4OTA2*_ga_1EPWSW3PCS*MTcxNzYxNDI1MS4yOTMuMS4xNzE3NjE1MDM1LjAuMC4w)
