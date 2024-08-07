@@ -41,3 +41,8 @@ Repositório utilizado para os projetos desenvolvidos nos cursos da plataforma [
 - [bytebank-cypress](tests/bytebank-cypress/) - [React: escreva testes end to end com Cypress](https://cursos.alura.com.br/course/react-escreva-testes-end-to-end-cypress)
 - [bytebank-cypress-v2](tests/bytebank-cypress-v2/) - [React: avançando em testes e2e com Cypress](https://cursos.alura.com.br/course/react-avancando-testes-e2e-cypress)
 - [to-do](tests/to-do/) - [Artigo: Como implementar cobertura de testes no Cypress](https://www.alura.com.br/artigos/como-implementar-cobertura-testes-cypress?_gl=1*1mxg1oe*_ga*MTQ5OTYyNzE1OS4xNzA0ODA4OTA2*_ga_1EPWSW3PCS*MTcxNzYxNDI1MS4yOTMuMS4xNzE3NjE1MDM1LjAuMC4w)
+
+## Formação Desenvolva aplicações Web Acessíveis
+- [acessibilidade-web](acessibilidate/acessibilidade-web) - [Acessibilidade web parte 1: tornando seu front-end inclusivo](https://cursos.alura.com.br/course/acessibilidade-web-front-end) e [Acessibilidade web parte 2: componentes acessíveis com um pouco de JavaScript](https://cursos.alura.com.br/course/acessibilidade-web-front-end-parte-2)
+- [jornada-ia](acessibilidate/acessibilidade-web) - [IA generativa no Front-end: trabalhando com acessibilidade, semântica e HTML](https://cursos.alura.com.br/course/ia-generativa-front-end-acessibilidade-semantica-html)
+
