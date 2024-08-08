@@ -21,7 +21,13 @@
     gap: 40px;
 }
 
-.cabecalho__navegacao--item {
+.cabecalho__navegacao--lista {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+.cabecalho__navegacao--item a {
     color: var(--branco);
     font-size: 24px;
     font-style: normal;
@@ -29,11 +35,15 @@
     line-height: normal;
 }
 
+.banner__img-wrapper {
+    margin: 0;
+}
+
 .banner__img {
     max-width: 100%;
 }
 
-.banner__descricao {
+.banner__img-descricao {
     max-width: 1200px;
     color: var(--grafite, #222);
     text-align: center;
