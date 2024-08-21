@@ -1,3 +1,25 @@
+function alternarModal(modalId, abrir) {
+    const modal = document.querySelector(`#${modalId}`);
+
+    if (abrir) {
+        modal.style.display = 'block';
+    } else {
+        modal.style.display = 'none';
+    }
+
+    document.body.style.overflow = abrir ? 'hidden' : 'auto';
+}
+
+document.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape') {
+        alternarModal('ver-modal-inscrito', false);
+
+        document.querySelectorAll('.cabecalho__lista-item').forEach((item) => {
+            alternarSubmenu(item, false)
+        })
+    }
+})
+
 function alternarSubmenu(item, mostrar) {
     const submenu = item.querySelector('.submenu');
 
