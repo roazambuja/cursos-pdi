@@ -46,3 +46,28 @@ document.querySelectorAll('.cabecalho__lista-item').forEach(item => {
         alternarSubmenu(item, !isDisplayed);
     })
 })
+
+// acordion 
+document.querySelectorAll('.botao-acordeao').forEach(button => {
+    button.addEventListener('click', () => alternarAcordeao(button));
+})
+
+function alternarAcordeao(button) {
+    const isAlreadyOpened = button.getAttribute("aria-expanded") === 'true';
+
+    document.querySelectorAll('.botao-acordeao').forEach(btn => {
+        btn.setAttribute('aria-expanded', 'false');
+        
+        const content = btn.nextElementSibling;
+        content.classList.remove('expandido');
+        content.setAttribute('aria-hidden', 'true');
+    })
+
+    if (!isAlreadyOpened) {
+        button.setAttribute('aria-expanded', 'true')
+        const content = button.nextElementSibling;
+        content.classList.add('expandido');
+
+        content.setAttribute('aria-hidden', 'false')
+    }
+}
